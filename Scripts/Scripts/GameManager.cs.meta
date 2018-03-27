@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a644ce37f397b8544bc76e90d3b5ed8e
+timeCreated: 1508853343
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1784417777830252, guid: 6f245b98f26746b4f8384151e4b9f2a3, type: 2}
+  - tanker: {fileID: 1603338603324584, guid: 9277de869b0819e43af838fc5814d1ad, type: 2}
+  - soldier: {fileID: 1286677076837452, guid: b45fc2aed6fd8ad42ad9569379937c51, type: 2}
+  - ranger: {fileID: 1169175735669578, guid: 5218eb95c53397347832b8bc57d0ee86, type: 2}
+  - arrow: {fileID: 1874640142630154, guid: 232e5b28593fa2f4e83a7bb7d560ffc0, type: 2}
+  - Leveltext: {instanceID: 0}
+  - healthPowerUp: {instanceID: 0}
+  - speedPowerUp: {instanceID: 0}
+  - EndGameText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
